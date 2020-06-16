@@ -3,3 +3,4 @@ __pycache__
 venv
 ip.txt
 results/result.txt
+ipinfo_auth
